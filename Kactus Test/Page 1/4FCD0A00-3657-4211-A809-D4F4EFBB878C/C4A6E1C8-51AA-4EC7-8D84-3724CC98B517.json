@@ -31,6 +31,11 @@
   "name": "Cards / Referrals + Bonus",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9D299F95-F03C-407D-A9AE-AA91622B7924_layerStyle",
+      "value": "4692AAA6-8603-4490-BF5F-667633863B13"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
