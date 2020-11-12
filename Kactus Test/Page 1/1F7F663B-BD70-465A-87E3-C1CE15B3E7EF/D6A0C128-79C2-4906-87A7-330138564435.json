@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F6E106E5-04C5-4D3E-B24E-B4C767ACEA98",
+  "do_objectID": "D6A0C128-79C2-4906-87A7-330138564435",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 70,
-    "width": 375,
-    "x": 73,
-    "y": 164
+    "height": 322,
+    "width": 343,
+    "x": 569,
+    "y": 545
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Modal / Fullscreen with iOS",
+  "name": "Cards / Referrals + Bonus",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -71,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "CEF4B825-846C-47BF-ADE8-398D5D81D661",
+    "do_objectID": "7A1A0A81-4964-4D76-ADAF-CDEA24104AAD",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -83,6 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4A35DD2A-DD02-4C77-AC31-A833725D7FCE",
+  "symbolID": "4D522D6F-93E6-4DB6-8215-D7B5BE878A62",
   "verticalSpacing": 0
 }

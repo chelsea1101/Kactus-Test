@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F6E106E5-04C5-4D3E-B24E-B4C767ACEA98",
+  "do_objectID": "6C763BFE-EDCB-4945-9772-E98642C819E8",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 70,
-    "width": 375,
-    "x": 73,
-    "y": 164
+    "height": 122,
+    "width": 300,
+    "x": 569,
+    "y": 154
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Modal / Fullscreen with iOS",
+  "name": "Cards / Loans / Carousel",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -71,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "CEF4B825-846C-47BF-ADE8-398D5D81D661",
+    "do_objectID": "086CC341-43B7-47A0-A51E-665C9A6480D0",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -83,6 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4A35DD2A-DD02-4C77-AC31-A833725D7FCE",
+  "symbolID": "7CC92341-5B32-41BC-B4EE-7ECF4A843A9C",
   "verticalSpacing": 0
 }
