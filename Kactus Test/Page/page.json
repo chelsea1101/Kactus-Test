@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "page",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D6A0C128-79C2-4906-87A7-330138564435",
+  "do_objectID": "1B4CBC37-2C88-4B3D-8F57-2B58DAA0A269",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,27 +15,36 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 322,
-    "width": 343,
-    "x": 569,
-    "y": 545
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Cards / Referrals + Bonus",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
   ],
+  "name": "Page",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -71,7 +80,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "7A1A0A81-4964-4D76-ADAF-CDEA24104AAD",
+    "do_objectID": "6E3BFD65-336E-48A1-B0C3-50A2BA9F4801",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -83,6 +92,10 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4D522D6F-93E6-4DB6-8215-D7B5BE878A62",
-  "verticalSpacing": 0
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
 }
